@@ -2,13 +2,13 @@
 
 {
                 "name": "تطبيق كيف تجعل الفتاة تحبك‎",
-    		"url": "https://play.google.com/store/apps/details?id=com.tsm.lovebnt",
+    		"url": "http://bit.ly/2kCoMur",
     		"iconUrl": "https://lh3.googleusercontent.com/PW5VLsSk0dv_vm-FjUmigd2GEkrn8kX9tox60x3yk-llUmMItDBx5QaK_YwzYiQvUXvu=s180-rw"     
  },
 
 {
                 "name": "تطبيق كتاب مميز بالأصفر 2019",
-    		"url": "https://play.google.com/store/apps/details?id=com.tsm.byyellow",
+    		"url": "http://bit.ly/2kubq3x",
     		"iconUrl": "https://lh3.googleusercontent.com/M5alTYjSYT_RRerZws-pWx0nz9ojpsVDS5c4ftQIZSb3Y7dQs7dU7WKZxaLt6AGv2Q=s180-rw"     
  },
 {
