@@ -1,14 +1,5 @@
  [
-{
-                "name": "رواية احببتها فى انتقامى‎",
-    		"url": "https://play.google.com/store/apps/details?id=com.tsm.loveinti9am",
-    		"iconUrl": "https://lh3.googleusercontent.com/-Ftapmn1_lPy3FiUS_rgpjrYBma9XZGAjtwXEZqf9Ywg206l75GYIz0Jr2AXfume=s360-rw"     
- },
-{
-                "name": "رواية شهر العسل‎",
-    		"url": "https://play.google.com/store/apps/details?id=com.Tsm.ChaharAsal",
-    		"iconUrl": "https://lh3.googleusercontent.com/8ylZuLzWr1UpnkbFBmXnOiT1Qzfb7y1dRYEwN2Fqw6EuXZrqFRhTb5V1uan-2pj07k4=s360-rw"     
- },
+
 {
                 "name": "تطبيق كيف تجعل الفتاة تحبك‎",
     		"url": "http://bit.ly/2kCoMur",
