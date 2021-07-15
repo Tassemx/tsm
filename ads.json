@@ -13,8 +13,8 @@
         "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
-        "ImageBanner": false,
-        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBanner": true,
+        "ImageBannerImg" : "https://1.bp.blogspot.com/-f_cPoyxJIiM/XpvGFbgZKCI/AAAAAAAAAs4/CKVO7zCrFAM3Q_rvcit4uxOe73C6DLAcgCLcBGAsYHQ/s320/k.jpg",
         "ImageBannerURL" : "https://www.google.com"
 		
       },
